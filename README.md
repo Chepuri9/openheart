@@ -3,9 +3,9 @@
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : https://victorious-plant-006103410.2.azurestaticapps.net
+Static Web App URL : https://openheart.azurewebsites.net
 
-App Services URL : https://openheart.azurewebsites.net
+App Services URL : https://victorious-plant-006103410.2.azurestaticapps.net
 
 ## home
 <img width="1066" alt="Screenshot 2022-10-28 145930" src="https://user-images.githubusercontent.com/115810419/198556722-e2dd92dc-e3e9-46b7-8a30-9edf05d911e2.png">
