@@ -35,6 +35,10 @@ Project demovideolink :https://github.com/Chepuri9/openheart/blob/master/Open%20
 ##bot service
 <img width="1039" alt="bot service" src="https://user-images.githubusercontent.com/115810419/203565880-1bb05b03-44b3-4619-a73f-a357ba8536d2.png">
 
+### Azure Resources
+
+<img width="1057" alt="rexources" src="https://user-images.githubusercontent.com/115810419/204118687-efe4054f-3ac3-4ebf-a7e8-05260fcd7900.png">
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
