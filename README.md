@@ -40,9 +40,7 @@ App Service URL : https://openheart.azurewebsites.net
 <img width="1068" alt="durga what1" src="https://user-images.githubusercontent.com/115810419/212505072-cf412ecf-0bfb-4cbf-aea6-a3d85b0cdf5d.png">
 <img width="1066" alt="durga what2" src="https://user-images.githubusercontent.com/115810419/212514891-26840432-22ed-4a4f-8753-0afea965a1f5.png">
 
-
-
-##HOME/WHO WE ARE
+## HOME/WHO WE ARE
 <img width="1067" alt="durga who1" src="https://user-images.githubusercontent.com/115810419/212515028-431cb825-3167-49f2-b5ab-235bd1d474b6.png">
 <img width="1069" alt="durga who2" src="https://user-images.githubusercontent.com/115810419/212505590-8df67285-7930-4b37-9f1a-cacecb49b703.png">
 
@@ -52,7 +50,7 @@ App Service URL : https://openheart.azurewebsites.net
 <img width="1069" alt="durga gallery2" src="https://user-images.githubusercontent.com/115810419/212513771-757d5b47-8810-4417-9cad-399cab340e3f.png">
 <img width="1067" alt="durga gallery3" src="https://user-images.githubusercontent.com/115810419/212513864-9cd279de-cf90-4148-a7de-b9aec4578747.png">
 
-## OME/BLOG
+## HOME/BLOG
  
  
  <img width="1067" alt="durga blog1" src="https://user-images.githubusercontent.com/115810419/212513163-9bc7e3cc-daf7-4aef-8f89-0ab22730ad85.png">
@@ -62,10 +60,6 @@ App Service URL : https://openheart.azurewebsites.net
 
 <img width="1066" alt="durga contact1" src="https://user-images.githubusercontent.com/115810419/212511840-01d77fd2-628f-451a-b8af-27881d8dcf86.png">
 <img width="1067" alt="durga contacct2" src="https://user-images.githubusercontent.com/115810419/212507863-d96717d7-bf8e-4836-9aa1-6117b7ad544a.png">
-
-## HOME/CONTACT US 
-<img width="1066" alt="durga contact1" src="https://user-images.githubusercontent.com/115810419/212512930-18523a94-a4ba-4ef5-b9f9-bfac4216bd56.png">
-<img width="1067" alt="durga contacct2" src="https://user-images.githubusercontent.com/115810419/212512015-3add0c96-255f-44a7-b17d-3aa6eae08667.png">
 
 ## HOME/CHARITY HEALTHBOT
 
