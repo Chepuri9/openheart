@@ -23,7 +23,7 @@ Static Web App URL : https://victorious-plant-006103410.2.azurestaticapps.net
 
 Azure Health Bot URL : https://victorious-plant-006103410.2.azurestaticapps.net/bot.html
 
-App Service URL : https://openheart.azurewebsites.net
+App Service URL : https://openhearrt.azurewebsites.net
 
 
 
