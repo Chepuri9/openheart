@@ -1,7 +1,7 @@
 # openheart
 # ✨ OPEN HEART  ✨
 ## finalpro:Future Ready Talent Project By Chepuri venkata naga durgarao
-##   Fashion Website
+##   Charity  Website
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -15,7 +15,7 @@ Project Title : LOOK
 
 Problem Statement/Opportunity : Good lifestyle Is needed for evrey person.
 
-Project Description           :  Best lifestyle  Will give the more satisfaction.
+Project Description           :  give a healping hand 
 
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot, Health Bot.
 
