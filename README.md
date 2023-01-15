@@ -1,49 +1,80 @@
 # openheart
 # ✨ OPEN HEART  ✨
-This is a web based application developed for liffestyle related telugu based website in india
+## finalpro:Future Ready Talent Project By Chepuri venkata naga durgarao
+##   Fashion Website
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-## Features and Functionalities 😃
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home,what we do,who we are,gallery,blog,contact usand charity health bot topics and charity related related information etc.
-## MY WEBSITE LINKS:
+Web Technologies used: HTML, CSS, JS.
 
-Primary Azure Technology : Static Web Apps, App Service and Azure health bot.
+IDE           : VS-Code
 
-Static Web App URL : https://openheart.azurewebsites.net
+Industry      : Lifestyle
 
-App Services URL : https://victorious-plant-006103410.2.azurestaticapps.net
+Project Title : LOOK
 
-Project demovideolink :https://github.com/Chepuri9/openheart/blob/master/Open%20Heart%20a%20Charity%20Category%20Flat%20Bootstrap%20Responsive%20Website%20Template%20_%20Home%20__%20w3layouts%20-%20Google%20Chrome%202022-10-28%2015-12-39.mp4
+Problem Statement/Opportunity : Good lifestyle Is needed for evrey person.
 
-##HOME
-<img width="1074" alt="home ne" src="https://user-images.githubusercontent.com/115810419/203565451-ed7932a7-dc5d-41e5-a76f-4cb35ee2791f.png">
-<img width="1080" alt="home block2 ne" src="https://user-images.githubusercontent.com/115810419/203565480-1c531b33-b66c-4114-a36f-ab044847bc2d.png">
-##what we do
+Project Description           :  Best lifestyle  Will give the more satisfaction.
 
-<img width="1080" alt="what we do ne" src="https://user-images.githubusercontent.com/115810419/203565663-15847907-eb92-444d-9dd7-946cea4a83f7.png">
-##gallery
-<img width="1074" alt="gallery new" src="https://user-images.githubusercontent.com/115810419/203565735-edb860c3-e310-4a34-b8bd-22c3051f15be.png">
-<img width="1041" alt="gallery2" src="https://user-images.githubusercontent.com/115810419/203565760-01eb6153-8987-4a94-a9ce-fa7732dc2e96.png">
-#blog
-<img width="1043" alt="blog" src="https://user-images.githubusercontent.com/115810419/203565843-db4f8ead-2b5b-4d64-83f6-4ed4c2537c24.png">
-###contact
-<img width="1071" alt="contact" src="https://user-images.githubusercontent.com/115810419/203565864-4316470b-719c-44e6-922d-a1498cc28f4b.png">
-##bot service
-<img width="1039" alt="bot service" src="https://user-images.githubusercontent.com/115810419/203565880-1bb05b03-44b3-4619-a73f-a357ba8536d2.png">
+Primary Azure Technology      :  Static Web Apps, Azure Health Bot, Health Bot.
 
-### Azure Resources
+Static Web App URL : https://victorious-plant-006103410.2.azurestaticapps.net
 
-<img width="1057" alt="rexources" src="https://user-images.githubusercontent.com/115810419/204118687-efe4054f-3ac3-4ebf-a7e8-05260fcd7900.png">
+App Service URL : https://openheart.azurewebsites.net
 
-## Tech Stack 💻
+Azure Health Bot URL : 
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- JavaScript
+
+## MY WEBSITE LINK IS : https://victorious-plant-006103410.2.azurestaticapps.net
+
+## HOME 
+<img width="1067" alt="durga home1" src="https://user-images.githubusercontent.com/115810419/212504699-49628350-f2a5-42c5-b436-8c32c04530d0.png">
+<img width="1068" alt="durga home2" src="https://user-images.githubusercontent.com/115810419/212504704-22fba535-bbc6-4389-8b9f-7792d2ef164c.png">
+<img width="1064" alt="durga home3" src="https://user-images.githubusercontent.com/115810419/212514033-43091b26-1455-422d-a7f6-925340409519.png">
+<img width="1069" alt="durga home4" src="https://user-images.githubusercontent.com/115810419/212504711-1b702ce9-240a-4fec-9520-5f6c1cb98bd5.png">
+
+## HOME/ WHAT WE DO
+
+<img width="1068" alt="durga what1" src="https://user-images.githubusercontent.com/115810419/212505072-cf412ecf-0bfb-4cbf-aea6-a3d85b0cdf5d.png">
+<img width="1066" alt="durga what2" src="https://user-images.githubusercontent.com/115810419/212514891-26840432-22ed-4a4f-8753-0afea965a1f5.png">
+
+
+
+##HOME/WHO WE ARE
+<img width="1067" alt="durga who1" src="https://user-images.githubusercontent.com/115810419/212515028-431cb825-3167-49f2-b5ab-235bd1d474b6.png">
+<img width="1069" alt="durga who2" src="https://user-images.githubusercontent.com/115810419/212505590-8df67285-7930-4b37-9f1a-cacecb49b703.png">
+
+## HOME/GALLERY
+
+<img width="1067" alt="durga gallery1" src="https://user-images.githubusercontent.com/115810419/212513706-15219b92-ee45-4be5-8b9c-925704ce2fbe.png">
+<img width="1069" alt="durga gallery2" src="https://user-images.githubusercontent.com/115810419/212513771-757d5b47-8810-4417-9cad-399cab340e3f.png">
+<img width="1067" alt="durga gallery3" src="https://user-images.githubusercontent.com/115810419/212513864-9cd279de-cf90-4148-a7de-b9aec4578747.png">
+
+## OME/BLOG
+ 
+ 
+ <img width="1067" alt="durga blog1" src="https://user-images.githubusercontent.com/115810419/212513163-9bc7e3cc-daf7-4aef-8f89-0ab22730ad85.png">
+<img width="1067" alt="durga blog2" src="https://user-images.githubusercontent.com/115810419/212513319-4b3fc182-bfbd-416b-bc54-5f93151d82ff.png">
+
+## HOME/CONTACT US
+
+<img width="1066" alt="durga contact1" src="https://user-images.githubusercontent.com/115810419/212511840-01d77fd2-628f-451a-b8af-27881d8dcf86.png">
+<img width="1067" alt="durga contacct2" src="https://user-images.githubusercontent.com/115810419/212507863-d96717d7-bf8e-4836-9aa1-6117b7ad544a.png">
+
+## HOME/CONTACT US 
+<img width="1066" alt="durga contact1" src="https://user-images.githubusercontent.com/115810419/212512930-18523a94-a4ba-4ef5-b9f9-bfac4216bd56.png">
+<img width="1067" alt="durga contacct2" src="https://user-images.githubusercontent.com/115810419/212512015-3add0c96-255f-44a7-b17d-3aa6eae08667.png">
+
+## HOME/CHARITY HEALTHBOT
+
+<img width="1078" alt="durga bot1" src="https://user-images.githubusercontent.com/115810419/212512832-be210eb2-541c-466a-ba64-cc38adeac0de.png">
+<img width="1079" alt="durga bot2" src="https://user-images.githubusercontent.com/115810419/212512840-4bb9b37e-545d-4e6f-912a-aae17a9952ab.png">
+
+## AZURE RESOURCES
+
+
+
+
 
 
