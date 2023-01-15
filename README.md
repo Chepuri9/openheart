@@ -73,6 +73,11 @@ Azure Health Bot URL :
 
 ## AZURE RESOURCES
 
+<img width="1080" alt="DURGA AAZZUURR" src="https://user-images.githubusercontent.com/115810419/212519644-e82320c2-7ccf-4fac-8081-271f99c9a3f7.png">
+
+
+
+
 
 
 
