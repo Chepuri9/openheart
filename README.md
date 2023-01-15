@@ -11,11 +11,11 @@ IDE           : VS-Code
 
 Industry      : Lifestyle
 
-Project Title : LOOK
+Project Title : OPEN HEART
 
 Problem Statement/Opportunity : Good lifestyle Is needed for evrey person.
 
-Project Description           :  give a healping hand 
+Project Description           :  Give a healping hand 
 
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot, Health Bot.
 
