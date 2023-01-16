@@ -74,8 +74,7 @@ Project demo video URL:  https://drive.google.com/drive/folders/1P6yiQ_CSl5_qxio
 
 ## AZURE RESOURCES
 
-<img width="1080" alt="DURGA AAZZUURR" src="https://user-images.githubusercontent.com/115810419/212519644-e82320c2-7ccf-4fac-8081-271f99c9a3f7.png">
-
+<img width="1070" alt="durga azure31267" src="https://user-images.githubusercontent.com/115810419/212583339-980bd97d-4212-4058-8175-2dce0cc65a32.png">
 
 
 
