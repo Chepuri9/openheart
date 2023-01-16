@@ -1,5 +1,5 @@
 # openheart
-# ✨ OPEN HEART  ✨
+# ✨ OpenHeart  ✨
 ## finalpro:Future Ready Talent Project By Chepuri.Venkata Naga Durga Rao
 ##   Charity  Website
 
@@ -11,7 +11,7 @@ IDE           : VS-Code
 
 Industry      : Lifestyle
 
-Project Title : OPEN HEART
+Project Title : OpenHeart
 
 Problem Statement/Opportunity : Good lifestyle Is needed for evrey person.
 
