@@ -1,6 +1,6 @@
 # openheart
 # ✨ OPEN HEART  ✨
-## finalpro:Future Ready Talent Project By Chepuri venkata naga durgarao
+## finalpro:Future Ready Talent Project By Chepuri.Venkata Naga Durga Rao
 ##   Charity  Website
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
